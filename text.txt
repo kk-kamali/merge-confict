@@ -1,3 +1,2 @@
-city:chennai
-
+city:bangalore
 
